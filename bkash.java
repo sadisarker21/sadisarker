@@ -9,6 +9,7 @@ public class bkash {
 
         change = money/(100/1.85);
         System.out.println("charge is :"+change);
+        System.out.println("Changes: "+change);
 
     }
 }
